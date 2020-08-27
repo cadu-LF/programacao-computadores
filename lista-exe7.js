@@ -23,7 +23,7 @@ function media(vet){
     for(var i=0; i<vet.length; i++){
         soma += ve[i]
     }
-    console.log(`A média é ${soma}`)
+    console.log(`A média é ${soma / i}`)
 }
 
 principal()
